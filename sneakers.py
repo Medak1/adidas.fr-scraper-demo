@@ -2,7 +2,7 @@ import requests
 import random
 import time
 
-
+#add your own discord webhook link
 def send_embed_with_info(product_description):
 	webhook_link = "url"
 	embed = {
